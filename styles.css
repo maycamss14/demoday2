@@ -1,0 +1,15 @@
+/* body{
+    margin: 0px;
+}
+
+.grid {
+   display:grid;
+   grid-template-columns: repeat(3, 1fr); 
+   grid-template-rows: repeat(4, minmax(100px, auto)); 
+   grid-template-areas: 
+   'header header header'
+   'main main main'
+   'centro centro centro'
+   'footer footer footer'
+   
+} */
